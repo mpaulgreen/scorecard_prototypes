@@ -1,11 +1,1 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_6699E861-8281-4E93-BA29-1BD4ABF9AE18" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_6A358AFF-B80C-4665-AF56-78D9B67ECFE2" name="IncludedFinalGrade" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_6699E861-8281-4E93-BA29-1BD4ABF9AE18">
-  <dmn:extensionElements/>
-  <dmndi:DMNDI>
-    <dmndi:DMNDiagram>
-      <di:extension>
-        <kie:ComponentsWidthsExtension/>
-      </di:extension>
-    </dmndi:DMNDiagram>
-  </dmndi:DMNDI>
-</dmn:definitions>
+<?xml version="1.0" ?><dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_6699E861-8281-4E93-BA29-1BD4ABF9AE18" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_6A358AFF-B80C-4665-AF56-78D9B67ECFE2" name="IncludedFinalGrade" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_6699E861-8281-4E93-BA29-1BD4ABF9AE18"><dmn:extensionElements/><dmn:decision id="_164F85B9-ECDA-4E3C-B204-B54979E605FE" name="Decision-1"><dmn:extensionElements/><dmn:variable id="_072197D6-D2B9-4D68-A6EB-26252DA10197" name="Decision-1"/></dmn:decision><dmndi:DMNDI><dmndi:DMNDiagram id="_105EE70A-006D-48E2-95C7-984A84BFF84A" name="DRG"><di:extension><kie:ComponentsWidthsExtension/></di:extension><dmndi:DMNShape id="dmnshape-drg-_164F85B9-ECDA-4E3C-B204-B54979E605FE" dmnElementRef="_164F85B9-ECDA-4E3C-B204-B54979E605FE" isCollapsed="false"><dmndi:DMNStyle><dmndi:FillColor red="255" green="255" blue="255"/><dmndi:StrokeColor red="0" green="0" blue="0"/><dmndi:FontColor red="0" green="0" blue="0"/></dmndi:DMNStyle><dc:Bounds x="550" y="83" width="100" height="50"/><dmndi:DMNLabel/></dmndi:DMNShape></dmndi:DMNDiagram></dmndi:DMNDI></dmn:definitions>
