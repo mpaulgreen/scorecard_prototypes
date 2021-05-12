@@ -51,7 +51,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>267.40000000000003</columnWidth>
+          <columnWidth>176.99999999999997</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -72,7 +72,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>267.40000000000003</columnWidth>
+          <columnWidth>176.99999999999997</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -93,7 +93,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>267.40000000000003</columnWidth>
+          <columnWidth>176.99999999999997</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -114,7 +114,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>267.40000000000003</columnWidth>
+          <columnWidth>176.99999999999997</columnWidth>
         </FactMapping>
         <FactMapping>
           <expressionElements>
@@ -135,7 +135,7 @@
           <expressionAlias>value</expressionAlias>
           <genericTypes/>
           <factMappingValueType>NOT_EXPRESSION</factMappingValueType>
-          <columnWidth>267.40000000000003</columnWidth>
+          <columnWidth>176.99999999999997</columnWidth>
         </FactMapping>
       </factMappings>
     </scesimModelDescriptor>
